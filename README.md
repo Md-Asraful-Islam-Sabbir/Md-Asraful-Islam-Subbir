@@ -37,5 +37,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-asraful-islam-subbir&show_icons=true&locale=en" alt="md-asraful-islam-subbir" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-asraful-islam-subbir&" alt="md-asraful-islam-subbir" /></p>
-![](https://raw.githubusercontent.com/Md-Asraful-Islam-Subbir/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Md-Asraful-Islam-Subbir/cf-stats/main/output/light_card.svg)
+
+![](https://raw.githubusercontent.com/Md-Asraful-Islam-Subbir/Cf_template/main/output/light_card.svg)
