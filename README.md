@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **asrafulislamsabbir72@gmail.com**
 
-- 📫 How to reach me **asrafulislamsabbir72@gmail.com**
+- 📫 How to reach me **asraful17@cse.pstu.ac.bd**
 
 - ⚡ Fun fact **I think I am boring**
 
