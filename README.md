@@ -1,13 +1,15 @@
 ![logo](https://github.com/Md-Asraful-Islam-Subbir/Md-Asraful-Islam-Subbir/blob/main/112645749-933b4000-8e25-11eb-8fc6-5c57c5e6e1ba.jpg)
 <h1 align="center">Hi 👋, I'm Md.Asraful Islam Subbir</h1>
-<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
+<h3 align="center">A passionate Frontend Software Engineer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-asraful-islam-subbir&label=Profile%20views&color=0e75b6&style=flat" alt="md-asraful-islam-subbir" /> </p>
 
 <p align="left"> <a href="https://twitter.com/asrafulsabbir" target="blank"><img src="https://img.shields.io/twitter/follow/asrafulsabbir?logo=twitter&style=for-the-badge" alt="asrafulsabbir" /></a> </p>
 
-- 🌱 I’m currently learning **Database(mysql,Oracol),JavaScript**
-
+- 🌱 I’m currently learning **Reacjs,Database(mongoDb)**
+- 💼 I'm looking for a Web Developer Job (My Resume)
+- 🤔 I’m looking for help with getting a job
+-  📫 How to reach me:Facebook: Facebook : [Asraful Islam Sabbir](https://www.facebook.com/Asrafulislamsabbir1902003) LinkedIn: [Md Asraful Islam sabbir](https://www.linkedin.com/in/md-asraful-islam-sabbir-067b2b259/)
 - 💬 Ask me about **asrafulislamsabbir72@gmail.com**
 
 - 📫 How to reach me **asraful17@cse.pstu.ac.bd**
